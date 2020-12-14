@@ -1,4 +1,15 @@
 # Youtube Dl bot 😉
+
+[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
+
+|Deploy To Heroku|  Gitpod Online|
+|--|--|
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammedfurkan/TelethonUserBot) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mmuhammedfurkan/TelethonUserBot) |
+
+### DeepSource
+
+
+[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot/?ref=repository-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot/?ref=repository-badge)
 ## Prerequisite
     ffmpeg
   
@@ -13,7 +24,3 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
