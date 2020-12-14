@@ -2,9 +2,9 @@
 
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
-|Peleka Kwa Heroku|  Gitpod Online|
-|--|--|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jihudumie/Mbakija) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Jihudumie/Mbakija) |
+|Peleka Kwa Heroku|  Gitpod Online| Deploy on Scalingo|
+|--|--|--|
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jihudumie/Mbakija) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Jihudumie/Mbakija) | [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/sebsauvage/rss-bridge) |
 
 ### DeepSource
 
