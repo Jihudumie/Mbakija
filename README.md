@@ -9,7 +9,7 @@
 ### DeepSource
 
 
-[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot/?ref=repository-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/Jihudumie/Mbakija.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/Jihudumie/Mbakija/?ref=repository-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DeepSource](https://deepsource.io/gh/Jihudumie/Mbakija.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/Jihudumie/Mbakija/?ref=repository-badge)
 ## Prerequisite
     ffmpeg
   
